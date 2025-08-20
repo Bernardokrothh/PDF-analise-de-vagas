@@ -1,4 +1,4 @@
-"Qual o perfil do Desenvolvedor(a) Web Júnior em 2025?
+Qual o perfil do Desenvolvedor(a) Web Júnior em 2025?
 
 Para responder a essa pergunta, analisei 5 vagas de desenvolvedor júnior no Rio Grande do Sul e compilei os dados. O resultado é um retrato claro do que o mercado está buscando!
 
